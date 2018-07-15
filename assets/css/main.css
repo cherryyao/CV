@@ -53,6 +53,14 @@
 .tlinks{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 /* Containers */
 
+
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 	.container {
 		margin-left: auto;
 		margin-right: auto;
